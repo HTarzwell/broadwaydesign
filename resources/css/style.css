@@ -1,0 +1,10 @@
+body {
+	font-family: Helvetica;
+	text-align: center;
+}
+ul {
+	list-style: none;
+}
+.header {
+	background-image: url('images/the-flatiron-building.png');
+}
